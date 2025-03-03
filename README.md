@@ -1,4 +1,7 @@
-# React + Vite
+# LifesGoodKitchenWeb
+Website for Life's Good Kitchen restaurant.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
